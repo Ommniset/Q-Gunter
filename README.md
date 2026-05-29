@@ -1,2 +1,2 @@
 # Q-Gunter
-SaaS B2B - Automated Pentesting Platforma
+SaaS B2B - Automated Pentesting Platform
