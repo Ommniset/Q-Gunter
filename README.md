@@ -141,8 +141,6 @@ The platform is built security-first — it runs offensive tooling, so its own s
 | Raúl Molina Kind | Web API · Monitoring infrastructure · Production deployment |
 | Ayman Dghoughi Nouri | Network infrastructure · HA frontend · MariaDB HA · Cloudflare · MinIO · Security |
 
-**Institut Tecnològic de Barcelona — Màster d'Especialització en Ciberseguretat — 2025**
-
 ---
 
 ## Repository structure
