@@ -58,17 +58,3 @@ Q-Gunter is an offensive tool. The authorization chain is:
 ```
 
 The client is legally responsible for ensuring all targets are authorized. The ROE, combined with the documented use_case at registration, forms the contractual and ethical basis for each engagement.
-
----
-
-## Known technical debt (documented for transparency)
-
-| Issue | Current state | Planned fix |
-|-------|--------------|-------------|
-| Anthropic API keys in DB | Stored in plaintext | AES-256 encryption at rest |
-| Internal traffic | Plaintext on CEC2 | mTLS with internal CA |
-| Secrets management | `.env` files | HashiCorp Vault or equivalent |
-| SAST/DAST pipeline | Not implemented | SonarQube / Snyk integration in CI/CD |
-| API key format validation | No format check | Validation + log masking |
-
-These are documented in the project memory and are prioritized for a future commercial release.
