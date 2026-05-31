@@ -21,7 +21,7 @@
 
 > 📹 Full engagement walkthrough — CLI launch → autonomous recon & exploitation → real-time finding registration → report download.
 
-[![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-red?style=for-the-badge)](#)
+[![Q-Gunter Demo](https://img.youtube.com/vi/9o-EiEl8uFw/maxresdefault.jpg)](https://www.youtube.com/watch?v=9o-EiEl8uFw)
 
 *(Video coming soon — platform live at q-gunter.cat)*
 
