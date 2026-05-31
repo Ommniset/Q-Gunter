@@ -39,16 +39,6 @@
 - **Diseñado para el futuro:** El roadmap incluye modelos de IA entrenados localmente y criptografía post-cuántica para la protección de API keys y comunicaciones.
 
 ---
-
-## Equipo
-
-| Nombre | Rol |
-|---|---|
-| Adam Ben Ahmed Belachi | Orchestrator · Agente IA · CLI Docker · Integración Anthropic · Frontend · Documentación legal |
-| Raúl Molina Kind | API web · Infraestructura de monitorización · Puesta en producción |
-| Ayman Dghoughi Nouri | Infraestructura de red · Frontend HA · MariaDB HA · Cloudflare · MinIO · Seguridad |
-
----
 ---
 
 # Q-Gunter — Automated AI Pentesting Platform
@@ -92,11 +82,3 @@
 - **Designed for the future:** Roadmap includes locally-trained AI models and post-quantum cryptography for API key protection and communications.
 
 ---
-
-## Team
-
-| Nombre | Rol |
-|---|---|
-| Adam Ben Ahmed Belachi | Orchestrator · AI Agent · CLI Docker · Anthropic integration · Frontend · Legal docs |
-| Raúl Molina Kind | Web API · Monitoring infrastructure · Production deployment |
-| Ayman Dghoughi Nouri | Network infrastructure · HA frontend · MariaDB HA · Cloudflare · MinIO · Security |
