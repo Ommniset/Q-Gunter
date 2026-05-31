@@ -48,8 +48,6 @@
 | Raúl Molina Kind | API web · Infraestructura de monitorización · Puesta en producción |
 | Ayman Dghoughi Nouri | Infraestructura de red · Frontend HA · MariaDB HA · Cloudflare · MinIO · Seguridad |
 
-**Institut Tecnològic de Barcelona — Màster d'Especialització en Ciberseguretat — 2025**
-
 ---
 ---
 
@@ -102,5 +100,3 @@
 | Adam Ben Ahmed Belachi | Orchestrator · AI Agent · CLI Docker · Anthropic integration · Frontend · Legal docs |
 | Raúl Molina Kind | Web API · Monitoring infrastructure · Production deployment |
 | Ayman Dghoughi Nouri | Network infrastructure · HA frontend · MariaDB HA · Cloudflare · MinIO · Security |
-
-**Institut Tecnològic de Barcelona — Màster d'Especialització en Ciberseguretat — 2025**
