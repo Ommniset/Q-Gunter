@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![Q-Gunter Logo](assets/logo.png)
+
 ![Status](https://img.shields.io/badge/status-live%20in%20production-brightgreen?style=flat-square)
 ![Model](https://img.shields.io/badge/AI%20model-Claude%20Haiku-orange?style=flat-square)
 ![Docker](https://img.shields.io/badge/CLI-Docker%20Hub-blue?style=flat-square)
@@ -87,6 +89,8 @@
 # Q-Gunter — Plataforma de Pentesting Automatizado con IA
 
 <div align="center">
+
+![Q-Gunter Logo](assets/logo.png)
 
 ![Estado](https://img.shields.io/badge/estado-en%20producción-brightgreen?style=flat-square)
 ![Modelo](https://img.shields.io/badge/modelo%20IA-Claude%20Haiku-orange?style=flat-square)
