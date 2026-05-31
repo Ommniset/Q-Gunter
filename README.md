@@ -23,8 +23,6 @@
 
 [![Q-Gunter Demo](https://img.youtube.com/vi/9o-EiEl8uFw/maxresdefault.jpg)](https://www.youtube.com/watch?v=9o-EiEl8uFw)
 
-*(Video coming soon — platform live at q-gunter.cat)*
-
 ---
 
 ## How it works
