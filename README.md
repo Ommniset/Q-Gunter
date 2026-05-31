@@ -1,6 +1,6 @@
 # Q-Gunter — Plataforma de Pentesting Automatizado con IA
 
-![Q-Gunter Logo](imagenes/logo.png)
+![Q-Gunter Logo](assets/logo.png)
 
 **Q-Gunter** es una plataforma SaaS B2B que automatiza las pruebas de penetración mediante inteligencia artificial. Cada cliente despliega una instancia Docker aislada con su propia API key de Anthropic, lanza auditorías desde un CLI ligero y recibe informes de seguridad estructurados — sin configuraciones complejas, sin infraestructura compartida, sin reventa de tokens.
 
@@ -55,7 +55,7 @@
 
 # Q-Gunter — Automated AI Pentesting Platform
 
-![Q-Gunter Logo](imagenes/logo.png)
+![Q-Gunter Logo](assets/logo.png)
 
 **Q-Gunter** is a B2B SaaS platform that automates penetration testing using artificial intelligence. Each client deploys an isolated Docker instance powered by their own Anthropic API key, launches assessments from a lightweight CLI, and receives structured security reports — no complex setup, no shared infrastructure, no token reselling.
 
