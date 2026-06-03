@@ -76,7 +76,7 @@
 | Name | Role |
 |------|------|
 | **Adam Ben Ahmed** | Orchestrator · AI agent · CLI Docker · Anthropic integration · Frontend · Legal docs |
-| Raúl Molina Kind | Web API · Monitoring infrastructure · Production deployment |
+| Raúl Molina Kind | Web API · Frontend · Monitoring infrastructure · Production deployment |
 | Ayman Dghoughi Nouri | Network infrastructure · HA frontend · MariaDB HA · Cloudflare · MinIO · Security |
 
 ---
@@ -153,5 +153,5 @@
 | Nombre | Rol |
 |--------|-----|
 | **Adam Ben Ahmed** | Orchestrator · Agente IA · CLI Docker · Integración Anthropic · Frontend · Documentación legal |
-| Raúl Molina Kind | API Web · Infraestructura de monitorización · Puesta en producción |
+| Raúl Molina Kind | API Web · Frontend · Infraestructura de monitorización · Puesta en producción |
 | Ayman Dghoughi Nouri | Infraestructura de red · Frontend HA · MariaDB HA · Cloudflare · MinIO · Seguridad |
